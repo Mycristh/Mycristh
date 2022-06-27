@@ -1,19 +1,16 @@
-## Coe 🤙 I'm Luciano 🤙
+## Hello, I'm Mylena 🌷
 __________________________
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mycristh)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martinslucianoufrj/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:martinslucianofigueira@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mylena-de-oliveira-10630a182/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mycristh@gmail.com)
 
-<img align='right' src="https://c.tenor.com/fwFci6Y5wyQAAAAC/yagi-toshinori.gif" height="200em">  
+<img align='right' src="https://64.media.tumblr.com/9469dd3a08d6bb7b2f7cf627543b1ee0/5ba15bb3c1e05a9a-c7/s640x960/f3156d8a6c42b7fca239d98d74f61e3b5acf79ce.gifv" height="110em">  
 
 
-- 💻 Software Eng. by [isaac](https://isaac.com.br)
-- 🌎 Bachelor in Mathematical and Earth Sciences - UFRJ
-- 🌱 Python & Golang & RubyOnRails
-- 🤖 IA & Data Analysis & Computer Vision
-- 🔭 Blockchain & Crypto & NFT enthusiast
-- 💬 Learning Solidity and Blockchain Engineer
+- 💻 Master in Information Science - IBICT
+- 📔 Bachelor in Library Science - UFRJ
+- 💬 SQL, Git, Python
+- 🔎 Becoming an Analytics Engineer
