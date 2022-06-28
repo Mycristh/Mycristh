@@ -10,7 +10,9 @@ You can use the website to generate badges: https://shields.io/
 <img align='right' src="https://64.media.tumblr.com/9469dd3a08d6bb7b2f7cf627543b1ee0/5ba15bb3c1e05a9a-c7/s640x960/f3156d8a6c42b7fca239d98d74f61e3b5acf79ce.gifv" height="200em">  
 
 
+- 🔎 Becoming an Analytics Engineer
+- 💬 SQL, Git, Python, HTML, CSS, JS
 - 💻 Master in Information Science - IBICT
 - 📔 Bachelor in Library Science - UFRJ
-- 💬 SQL, Git, Python
-- 🔎 Becoming an Analytics Engineer
+
+
